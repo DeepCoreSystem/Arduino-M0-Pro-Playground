@@ -1,3 +1,5 @@
+.vs/
+
 # Object files
 *.o
 *.ko
@@ -31,3 +33,4 @@
 # Debug files
 *.dSYM/
 *.su
+[Dd]ebug/
